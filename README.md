@@ -12,7 +12,7 @@ A simple Number Guessing Game built with Java where you have to guess a randomly
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/GuessGame.git
+   git clone https://github.com/KThusheelGoud/NUMBER-GAME.git
 
 2. Navigate to the project directory:
    
