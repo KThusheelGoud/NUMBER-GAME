@@ -34,4 +34,4 @@ A simple Number Guessing Game built with Java where you have to guess a randomly
 
 ## Contact
 
-If you have any questions or suggestions, contact me at " kagiththusheelgoud@gmail.com ".
+If you have any questions or suggestions, contact me at " kagithathusheelgoud@gmail.com ".
